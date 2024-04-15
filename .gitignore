@@ -12,6 +12,9 @@
 /.next/
 /out/
 
+#Intellij
+/.idea/
+
 # production
 /build
 
